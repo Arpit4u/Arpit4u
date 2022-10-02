@@ -1,4 +1,4 @@
-![MasterHead](https://ertano.com/wp-content/uploads/2022/02/free-programming-learn-600x350.jpeg)
+__________________________![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/front-end-developer-doing-web-designing-4152245-3444401.png)
 <h1 align="center">Hi 👋, I'm Arpit Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
