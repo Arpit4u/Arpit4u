@@ -1,8 +1,8 @@
-
+![MasterHead](https://ertano.com/wp-content/uploads/2022/02/free-programming-learn-600x350.jpeg)
 <h1 align="center">Hi 👋, I'm Arpit Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
+<img align="right" alt="coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 
 
 - 🔭 I’m currently working on **Ecommerce Website**
