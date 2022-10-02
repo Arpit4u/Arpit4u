@@ -1,4 +1,4 @@
-![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/front-end-developer-doing-web-designing-4152245-3444401.png)
+__________![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/front-end-developer-doing-web-designing-4152245-3444401.png)
 <h1 align="center">Hi 👋, I'm Arpit Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
