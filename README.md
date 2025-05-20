@@ -1,14 +1,14 @@
 
 [![@arpit4u's Holopin board](https://holopin.io/api/user/board?user=arpit4u)](https://holopin.io/@arpit4u)
 <h1 align="center">Hi 👋, I'm Arpit Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Salesforce developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif">
 
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **Leave Management System**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Salesforce**
 <br>
 <h3 align="left">Connect with me:</h3>
 <br><p align="left">
